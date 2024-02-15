@@ -1,0 +1,9 @@
+{
+    "cSpell.enableFiletypes": [
+        "\"editor.autoClosingBrackets\": \"always\", \"editor.autoClosingQuotes\": \"always\", \"editor.autoSurround\": \"always\","
+    ],
+    "cSpell.ignoreRegExpList": [
+        "\"editor.autoClosingBrackets\": \"always\", \"editor.autoClosingQuotes\": \"always\", \"editor.autoSurround\": \"always\","
+    ],
+    "liveServer.settings.port": 5500
+}
