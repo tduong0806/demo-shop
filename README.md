@@ -2,7 +2,9 @@ Giới thiệu
 Đây là dự án mua bán hàng online được phát triển bằng HTML, CSS và JavaScript. Dự án này nhằm mục đích thực hành và phát triển kỹ năng lập trình web front-end.
 
 Cách sử dụng:
+
 1.Clone repository này về máy tính của bạn:https://github.com/tduong0806/demo-shop.git
+
 2.Mở file index.html bằng trình duyệt web để xem giao diện của trang web.
 
 Chức năng:
